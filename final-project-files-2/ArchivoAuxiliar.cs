@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Proyecto_Final_2
+namespace final_project_files_2
 {
     class ArchivoAuxiliar
     {

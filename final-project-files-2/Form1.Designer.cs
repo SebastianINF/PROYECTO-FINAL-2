@@ -1,4 +1,4 @@
-﻿namespace Proyecto_Final_2
+﻿namespace final_project_files_2
 {
     partial class Form1
     {

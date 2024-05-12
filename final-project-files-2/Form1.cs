@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
 
-namespace Proyecto_Final_2
+namespace final_project_files_2
 {
     public partial class Form1 : Form
     {
